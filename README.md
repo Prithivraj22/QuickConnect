@@ -52,5 +52,5 @@ Here is a screenshot of the script successfully connecting to an AWS EC2 instanc
 
 
 
-!\[Project Demo](./assets/proof.png)
+!\[Project Demo](assets/proof.png)
 
